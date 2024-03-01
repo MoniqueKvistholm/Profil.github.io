@@ -3,11 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: Monique Kvistholm
-logo: /images/mig2.jpg
-<img src="/images/mig2.jpg" width=600 height=300>
+logo: | # Her bruger vi en blok-scalar
+  <img src="/images/mig2.jpg" width="600" height="300">
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
+
 
 # -----------------------------------------------------------------------------
 # Theme
