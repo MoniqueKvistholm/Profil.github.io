@@ -14,4 +14,4 @@ xxx
 ### Projekter
 xxx
 
-![](https://github.com/MoniqueKvistholm/Profil.github.io/blob/main/assets/vand.jpg)
+![](https://github.com/MoniqueKvistholm/Profil.github.io/blob/main/images/vand.jpg)
