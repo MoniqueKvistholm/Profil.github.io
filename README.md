@@ -14,4 +14,4 @@ xxx
 ### Projekter
 xxx
 
-![](images/vand.jpg)
+![](/images/vand.jpg)
