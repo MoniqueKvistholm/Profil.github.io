@@ -3,8 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: Monique Kvistholm
-logo: >
-  <img src="/images/mig2.jpg" style="width:300px;height:auto;">
+logo: images/mig2.jpg
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
