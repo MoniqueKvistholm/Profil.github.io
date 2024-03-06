@@ -6,7 +6,8 @@ title: Hjemmeside titel
 logo: images/mig2.jpg
 #description: text below image
 #show_downloads: true
-theme: jekyll-theme-al-folio
+remote_theme: alshedivat/al-folio
+
 
 
 
